@@ -17,7 +17,7 @@ function RegisterPage({ setPatientId }) {
   };
 
   return (
-    <div className="bg-white p-6 rounded shadow-md">
+    <div>
       <h2 className="text-xl font-semibold mb-4 text-center">Register</h2>
 
       <div className="flex flex-col gap-4">
@@ -41,7 +41,7 @@ function RegisterPage({ setPatientId }) {
         />
         <button
           onClick={handleRegister}
-          className="bg-blue-500 hover:bg-blue-600 text-white font-semibold py-2 px-4 rounded transition duration-200"
+          className="bg-blue-500 text-white font-semibold py-2 px-4 rounded transition duration-200"
         >
           Register
         </button>
