@@ -16,3 +16,9 @@ A patient-facing portal for a digital health clinic where patients are able to r
 - Backend: Node.js, Express
 
 - Database: MongoDB
+
+
+### Link : 
+- Backend Deployed Link : 
+
+- Frontend Deployed Link : https://patient-portal-cyan.vercel.app/
