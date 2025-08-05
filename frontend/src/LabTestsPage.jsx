@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 
-const API_BASE = 'https://patient-portal-laha.onrender.com';
+const API_BASE = 'https://patient-portal-bk19.onrender.com';
 
 function LabTestsPage({ patientId }) {
   const [labTests, setLabTests] = useState([]);

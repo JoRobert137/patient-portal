@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import axios from 'axios';
 
-const API_BASE = 'https://patient-portal-laha.onrender.com';
+const API_BASE = 'https://patient-portal-bk19.onrender.com';
 
 function RegisterPage({ setPatientId }) {
   const [formData, setFormData] = useState({ name: '', email: '', password: '' });

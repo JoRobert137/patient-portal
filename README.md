@@ -19,6 +19,6 @@ A patient-facing portal for a digital health clinic where patients are able to r
 
 
 ### Link : 
-- Backend Deployed Link : 
+- Backend Deployed Link : https://patient-portal-bk19.onrender.com
 
 - Frontend Deployed Link : https://patient-portal-cyan.vercel.app/
